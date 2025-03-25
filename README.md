@@ -30,13 +30,6 @@ Below is the UML diagram representing the structure of the project:
 - **`src/main/resources`**: Includes configuration files like `persistence.xml`.
 - **`src/test`**: Reserved for unit tests (currently empty).
 
-## Future Improvements
-
-- Add unit tests for core functionality.
-- Enhance GUI usability and design.
-- Support additional database systems beyond MariaDB.
-- Implement advanced character customization options.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
