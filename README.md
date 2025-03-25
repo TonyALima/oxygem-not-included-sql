@@ -18,6 +18,12 @@ This project was developed as part of the **Database** course in the Computer En
 - **Lombok**: Simplifies Java code with annotations.
 - **Maven**: Build and dependency management tool.
 
+## UML Diagram
+
+Below is the UML diagram representing the structure of the project:
+
+![UML Diagram](oni.png)
+
 ## Project Structure
 
 - **`src/main/java`**: Contains the main application code, including character generation logic, database entities, and GUI classes.
